@@ -1,5 +1,5 @@
 appId: 'MushroomSMP-Launcher'
-productName: 'MushroomSMP Launcher'
+productName: 'MushroomSMP-Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: ' '
