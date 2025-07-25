@@ -20,11 +20,7 @@ changeLanguageDesc = "You can change the language in the list below. This text w
 [ejs.welcome]
 welcomeHeader = "WELCOME TO MushroomSMP"
 welcomeDescription = """
-Welcome to MushroomSMP, where your Minecraft adventure begins! Immerse yourself in a world of endless possibilities and unforgettable experiences on the best SMP server you can imagine. Join our vibrant community of players and embark on epic quests, build amazing creations, and forge lasting friendships.
-
-But wait, there's more! To join in the fun, just hop onto our Discord server to self-register and gain access to our exclusive realm of emotions. Whether you're a seasoned explorer or a novice builder, MushroomSMP welcomes players of all skill levels.
-
-So, what are you waiting for? Click "Continue" and let the adventures begin!
+Welcome to MushroomSMP!
 """
 
 [ejs.overlay]
